@@ -33,6 +33,9 @@ export default {
    * Determine the array of extensions that should be used to resolve modules.
    */
   resolve: {
+    alias: {
+      'electron': 'electrino'
+    },
     extensions: ['.js', '.jsx', '.json'],
     modules: [
       path.join(__dirname, 'app'),
