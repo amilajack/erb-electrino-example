@@ -1,5 +1,8 @@
 erb-electrino-example
 ==================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/erb-electrino-example.svg)](https://greenkeeper.io/)
+
 A small example of erb using [electrino](https://github.com/pojala/electrino).
 
 
